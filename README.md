@@ -86,3 +86,6 @@ Despliegue del Modelo:
 -   Continuar el monitoreo y ajuste del modelo a medida que se obtengan nuevos datos.
    
 Este plan abarca todas las etapas críticas para el desarrollo del proyecto, desde la recolección de datos hasta la implementación de soluciones de machine learning, con el objetivo de proporcionar a la empresa una base sólida para tomar decisiones estratégicas en su nueva unidad de negocio.
+
+Documentos entregables:
+[Primer sprint](https://docs.google.com/document/d/1vlcqUtl4y7xb8gZK4r807emdi7TWnc1BRmmV-37HglY/edit?usp=sharing)
