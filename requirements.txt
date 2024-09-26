@@ -1,0 +1,14 @@
+folium
+ipykernel 
+joblib 
+matplotlib
+numpy
+opencage
+pandas
+python-dotenv
+requests
+scikit-learn
+scipy
+seaborn
+streamlit
+streamlit_folium 
