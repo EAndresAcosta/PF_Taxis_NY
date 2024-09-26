@@ -18,7 +18,7 @@ api_key = os.getenv("OPENCAGE_API_KEY")
 geocoder = OpenCageGeocode(api_key)
 
 # Cargar los datos de calidad del aire al inicio
-data_calidad_aire = pd.read_csv('./data/CD_air.csv')  # Asegúrate de que esta ruta sea correcta
+data_calidad_aire = pd.read_csv('./Datasets/CD_air.csv')  # Asegúrate de que esta ruta sea correcta
 
 # Calcular promedios de contaminantes por zona, excluyendo valores extremos
 promedios_calidad_aire = data_calidad_aire.groupby(['cd_name', 'polluting_agent'])['data_value'].apply(

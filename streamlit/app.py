@@ -1,7 +1,7 @@
 import streamlit as st
 from joblib import load
 import numpy as np
-from funciones_prueba import *
+from functions import *
 
 
 # Configurar la página
@@ -14,7 +14,7 @@ st.set_page_config(
 # url = '../models/modelo_ridge.joblib?raw=True'
 # response = requests.get(url)
 
-modelo_path = 'C:/Users/Andres/Documents/ANDRES/Programacion/Proyectos/ML_proyect/models/modelo_ridge.joblib'
+modelo_path = './models/modelo_ridge.joblib'
 modelo = load(modelo_path)
 
 # Guardar el archivo en una ubicación temporal
