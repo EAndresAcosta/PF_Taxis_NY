@@ -11,10 +11,12 @@ import os
 import time
 
 # Cargar las variables del archivo .env
-load_dotenv()
+#load_dotenv()
+
+api_key = st.secrets["OPENCAGE_API_KEY"]
 
 # API key de OpenCage
-api_key = os.getenv("OPENCAGE_API_KEY")
+#api_key = os.getenv("OPENCAGE_API_KEY")
 geocoder = OpenCageGeocode(api_key)
 
 # Cargar los datos de calidad del aire al inicio
