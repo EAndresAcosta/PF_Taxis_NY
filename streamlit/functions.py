@@ -13,7 +13,7 @@ import time
 # Cargar las variables del archivo .env
 #load_dotenv()
 
-api_key = st.secrets["OPENCAGE_API_KEY"]
+api_key = st.secrets["opencage"]["OPENCAGE_API_KEY"]
 
 # API key de OpenCage
 #api_key = os.getenv("OPENCAGE_API_KEY")
