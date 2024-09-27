@@ -33,7 +33,7 @@ La arquitectura del proceso ETL consta de los siguientes componentes:
 5. **Glue Data Catalog**: Gestión de metadatos y esquemas de datos.
 6. **Amazon Redshift**: Almacenamiento de datos transformados para análisis.  
 
-![alt text](<Imagenes/Arquitectura.jpeg>)
+![alt text](https://i.postimg.cc/HLhCJv6L/Arquitectura.jpg>)
 
 ## Servicios Utilizados
 
@@ -81,20 +81,20 @@ La arquitectura del proceso ETL consta de los siguientes componentes:
 1. **Configuración de Glue Crawler**: Se configura un crawler para identificar el esquema de los archivos en S3 y registrarlos en el Data Catalog.
 2. **Desarrollo de Jobs en Glue**: Se crean scripts para la limpieza, transformación y enriquecimiento de los datos según las necesidades del negocio.
 
-![alt text](Imagenes/job.png)
+![alt text](https://i.postimg.cc/J0wVxDVV/job.png)
 
 ### Automatización con Glue Workflow
 1. **Creación del Workflow**: Se diseña un Glue Workflow para integrar los distintos Jobs y etapas del proceso ETL.
 2. **Programación de Tareas**: Se configuran las tareas y dependencias dentro del Workflow para asegurar que los Jobs se ejecuten en el orden correcto.
 3. **Monitoreo y Alerta**: El Workflow incluye monitoreo y alertas para detectar fallos y asegurar la integridad del proceso.
 
-![alt text](Imagenes/workflow.png)
+![alt text](https://i.postimg.cc/BbxWVS48/workflow.png)
 
 ### Carga
 1. **Carga de Datos a Redshift**: Los datos transformados se cargan en Amazon Redshift para su análisis.
 2. **Validación y Verificación**: Se verifican los datos en Redshift para asegurar que cumplan con los requisitos del proyecto.
 
-![alt text](Imagenes/db.png)
+![alt text](https://i.postimg.cc/hjQRV8Y1/db.png)
 
 ## Conclusión
 El uso de estos servicios permite un proceso ETL automatizado y escalable, que facilita la gestión y análisis de datos dentro del ecosistema de AWS. La implementación de Glue Workflow garantiza una automatización completa, reduciendo el esfuerzo manual y mejorando la eficiencia del proceso.
