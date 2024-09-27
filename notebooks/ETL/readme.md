@@ -33,7 +33,7 @@ La arquitectura del proceso ETL consta de los siguientes componentes:
 5. **Glue Data Catalog**: Gestión de metadatos y esquemas de datos.
 6. **Amazon Redshift**: Almacenamiento de datos transformados para análisis.  
 
-![alt text](https://i.postimg.cc/HLhCJv6L/Arquitectura.jpg>)
+![alt text](https://i.postimg.cc/HLhCJv6L/Arquitectura.jpg)
 
 ## Servicios Utilizados
 
