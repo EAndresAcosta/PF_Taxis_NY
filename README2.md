@@ -1,5 +1,5 @@
 
-## ****EasyTrip**** 
+## ****Easy Trip**** 
 
 ![enter image description here](./image/Screenshot%202024-09-24%20at%2022.13.51.png)
 
