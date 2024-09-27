@@ -94,6 +94,15 @@ Despliegue del Modelo:
 Este plan abarca todas las etapas críticas para el desarrollo del proyecto, desde la recolección de datos hasta la implementación de soluciones de machine learning, con el objetivo de proporcionar a la empresa una base sólida para tomar decisiones estratégicas en su nueva unidad de negocio.
 
 Documentos entregables:
+
 [Primer sprint](https://docs.google.com/document/d/1vlcqUtl4y7xb8gZK4r807emdi7TWnc1BRmmV-37HglY/edit?usp=sharing)
 
 [Segundo sprint](https://docs.google.com/document/d/1SQNTXx04RgMKX8fW9N4xK2FnzKkgevKT7W14ZXpTo5I/edit#heading=h.xkxyypsnnaxy)
+
+
+Autores de la aplicación:
+
+Andres
+Danielo Carranza
+Mariam Velasquez
+Gonzalo Huarac
