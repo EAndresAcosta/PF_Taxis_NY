@@ -100,9 +100,6 @@ Documentos entregables:
 [Segundo sprint](https://docs.google.com/document/d/1SQNTXx04RgMKX8fW9N4xK2FnzKkgevKT7W14ZXpTo5I/edit#heading=h.xkxyypsnnaxy)
 
 
-Autores de la aplicación:
-
-Andres
-Danielo Carranza
-Mariam Velasquez
-Gonzalo Huarac
+## Autores
+| [<img src="https://avatars.githubusercontent.com/u/143465990?s=64&v=4" width=100><br><sub>Andres Acosta</sub>](https://github.com/EAndresAcosta) | [<img src="https://avatars.githubusercontent.com/u/88012655?v=4" width=100><br><sub>GonzaloHC</sub>](https://github.com/GonzaloHC) | [<img src="https://avatars.githubusercontent.com/u/56074646?v=4" width=100><br><sub>MariamV27</sub>](https://github.com/MariamV27) | [<img src="https://avatars.githubusercontent.com/u/125500094?v=4" width=100><br><sub>Danilo Carranza</sub>](https://github.com/CarranzaDanilo) |
+|:---:|:---:|:---:|:---:|
