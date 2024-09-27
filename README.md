@@ -102,4 +102,8 @@ Documentos entregables:
 
 ## Autores
 | [<img src="https://avatars.githubusercontent.com/u/143465990?s=64&v=4" width=100><br><sub>Andres Acosta</sub>](https://github.com/EAndresAcosta) | [<img src="https://avatars.githubusercontent.com/u/88012655?v=4" width=100><br><sub>GonzaloHC</sub>](https://github.com/GonzaloHC) | [<img src="https://avatars.githubusercontent.com/u/56074646?v=4" width=100><br><sub>MariamV27</sub>](https://github.com/MariamV27) | [<img src="https://avatars.githubusercontent.com/u/125500094?v=4" width=100><br><sub>Danilo Carranza</sub>](https://github.com/CarranzaDanilo) |
+<<<<<<< HEAD
 |:---:|:---:|:---:|:---:|
+=======
+|:---:|:---:|:---:|:---:|
+>>>>>>> 2ee1a71677dce0e3eb48c619114abcf9c23a55c8
