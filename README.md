@@ -73,7 +73,7 @@ Despliegue del Modelo:
 -   Creación de un dashboard en Streamlit o Power BI que muestre los análisis y predicciones en tiempo real.
 
 <p align= "center">
-<img src= "https://i.postimg.cc/JhJ2xJSc/Amazon-Web-Services-AWS-Logo.png", width= "20%", height= "20%"><img src= "https://i.postimg.cc/htpK1FW1/Quick-Sight-amazon.webp", width= "12%", height= "10%">
+<img src= "https://i.postimg.cc/JhJ2xJSc/Amazon-Web-Services-AWS-Logo.png", width= "20%", height= "20%"> <img src= "https://i.postimg.cc/htpK1FW1/Quick-Sight-amazon.webp", width= "12%", height= "10%">
 <br/>
 </p>
 
