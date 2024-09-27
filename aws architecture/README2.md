@@ -1,14 +1,20 @@
 
 ## ****NYC Taxis & Carbon Emission**** 
 
-![enter image description here](./image/WhatsApp%20Image%202024-09-20%20at%2015.49.12.jpeg)
+<p align="center">
+<img src="https://i.postimg.cc/TYqKBYWV/Screenshot-2024-09-24-at-22-13-51.png", height="400px", width="420px">
+<br/>
+</p>
 
 **Getting Started**
 Queremos ayudar a empresas de transporte de pasajeros a tomar decisiones fundamentadas sobre la implementación de vehículos eléctricos en su flota. Para ello, se analizan los datos de movimientos de taxis en Nueva York y su relación con la calidad del aire y la contaminación sonora, entre otros factores ambientales. A continuación, se detalla un plan de trabajo para desarrollar este proyecto:
 
 **KPI's** Evaluar la viabilidad de incorporar vehículos eléctricos en la flota de transporte de pasajeros de la empresa, con el fin de reducir las emisiones contaminantes y la contaminación sonora, basándose en el análisis de datos de taxis de Nueva York, así como en información relacionada con la calidad del aire y los niveles de ruido urbano.
 
-![enter image description here](./image/Screenshot%202024-09-25%20at%2014.26.16.png)
+<p align="center">
+<img src="https://i.postimg.cc/90yDmcgj/Screenshot-2024-09-25-at-14-26-16.png", height="450px", width="600px">
+<br/>
+</p>
 
 ## Architecture
 ### Arquitectura AWS - Pipeline de Datos
@@ -46,7 +52,7 @@ Los datos almacenados en **Amazon Redshift** pueden ser visualizados mediante **
 - **Amazon Redshift**: Almacenamiento de datos escalable y de alto rendimiento.
 - **Amazon QuickSight**: Herramienta de visualización de datos e inteligencia empresarial.
 
-![enter image description here](./image/WhatsApp%20Image%202024-09-20%20at%2015.49.12.jpeg)
+![enter image description here](https://i.postimg.cc/HWMc4tYP/Whats-App-Image-2024-09-20-at-15-49-12.jpg)
 
 Este flujo de trabajo permite el manejo de grandes volúmenes de datos con transformación, almacenamiento y análisis eficientes mediante los servicios de AWS.
 

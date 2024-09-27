@@ -1,9 +1,8 @@
 
-## ****NYC Taxis & Carbon Emission**** 
-
-
-![enter image description here](./image/Blue%20Purple%20Futuristic%20Modern%203D%20Tech%20Company%20Business%20Presentation%20(1).jpg)
-
+## ****NYC Taxis & Carbon Emission****
+<p align= "center">
+<img src= "https://i.postimg.cc/j5pWYDXX/Blue-Purple-Futuristic-Modern-3-D-Tech-Company-Business-Presentation-1.jpg", width= "80%">
+</p>
 ***primer sprint***
 Queremos ayudar a empresas de transporte de pasajeros a tomar decisiones fundamentadas sobre la implementación de vehículos eléctricos en su flota. Para ello, se analizan los datos de movimientos de taxis en Nueva York y su relación con la calidad del aire y la contaminación sonora, entre otros factores ambientales. A continuación, se detalla un plan de trabajo para desarrollar este proyecto:
 
@@ -53,9 +52,12 @@ Queremos ayudar a empresas de transporte de pasajeros a tomar decisiones fundame
 ### 5. Modelado de Machine Learning
 
 **Modelo a Desarrollar:**
--   Un modelo de clasificación supervisado, como Random Forest o Gradient Boosting, para predecir los niveles de contaminación en base a la actividad de los taxis.   
--   Alternativamente, un modelo de clustering no supervisado (e.g., K-means) para agrupar áreas de la ciudad con patrones similares de uso de taxis y contaminación.
-    
+-   Un modelo de clasificación supervisado, como Random Forest o Gradient Boosting, para predecir los niveles de contaminación en base a la actividad de los taxis.
+<p align= "center">
+<img src= "https://i.postimg.cc/Z5XQ6js5/machine-learn.jpg", width= "20%", height= "20%">
+<br/>
+</p>
+
 **Proceso de Entrenamiento:**
 
 -   División de los datos en conjuntos de entrenamiento y prueba.   
@@ -66,10 +68,14 @@ Queremos ayudar a empresas de transporte de pasajeros a tomar decisiones fundame
 
 Despliegue del Modelo:
 
--   Desarrollar una API con FastAPI para disponibilizar las predicciones del modelo.
-    
+-   Desarrollar una APP con Streamlit para disponibilizar las predicciones del modelo.
+
 -   Creación de un dashboard en Streamlit o Power BI que muestre los análisis y predicciones en tiempo real.
-    
+
+<p align= "center">
+<img src= "https://i.postimg.cc/JhJ2xJSc/Amazon-Web-Services-AWS-Logo.png", width= "20%", height= "20%"><img src= "https://i.postimg.cc/htpK1FW1/Quick-Sight-amazon.webp", width= "12%", height= "10%">
+<br/>
+</p>
 
 ### 7. Reporte y Recomendaciones
 

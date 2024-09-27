@@ -161,6 +161,7 @@ if st.button("💡 ¡Calcular Mi Viaje!"):
             
             # Mostrar resultados
             st.markdown("<h2 style='text-align: center; color: white;'>Datos del viaje y precio:</h2>", unsafe_allow_html=True)
+            st.write(f"🗺️ **El mapa proporciona datos sobre la calidad del aire en distintas zonas de la ciudad: marcador color 🟦: calidad del aire buena, marcador color 🟨: calidad del aire moderada, marcador color 🟥: calidad del aire mala.**")
             st.write(f"⏱️ **Tiempo estimado:** {tiempo} minutos")
             st.write(f"🛣️ **Distancia:** {distancia} millas")
             st.write(f"💰 **Tarifa estimada:** ${round(tarifa, 1)}")
