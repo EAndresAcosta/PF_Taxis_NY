@@ -50,6 +50,41 @@ Los datos almacenados en **Amazon Redshift** pueden ser visualizados mediante **
     - **Amazon QuickSight**: Herramienta de visualización de datos e inteligencia empresarial.
 
 Este flujo de trabajo permite el manejo de grandes volúmenes de datos con transformación, almacenamiento y análisis eficientes mediante los servicios de AWS.
+**Características de la Aplicación**
+
+Inicialización y Configuración
+
+Carga de Librerías: Se integran las librerías necesarias.
+Configuración Inicial: Se prepara la página de la aplicación.
+
+## Descarga y Activación del Modelo
+
+Obtención del Modelo: Se descarga el modelo entrenado desde un repositorio en GitHub.
+Activación del Modelo: Se activa el modelo para su uso en las predicciones.
+Diseño de la Página
+
+Personalización del Diseño: Se establece un estilo personalizado para la página, incluyendo una imagen de fondo y colores específicos para el texto y los elementos de entrada.
+Interfaz de Usuario
+
+Presentación: Se despliega el nombre de la aplicación junto con una breve introducción.
+Selección de Ciudad: El usuario puede seleccionar una ciudad de operación.
+
+Direcciones: El usuario proporciona las direcciones de inicio y destino.
+Cálculo de Ruta y Estimación de Costos
+
+Obtención de Coordenadas: Al presionar el botón “Calcular”, se obtienen las coordenadas de las direcciones proporcionadas.
+Cálculo de Ruta: Se determina el tiempo y la distancia de la ruta mediante una API externa.
+
+Estimación de Costos: El modelo activado se utiliza para calcular el costo del viaje.
+Presentación de Resultados: Los resultados se presentan al usuario, incluyendo el tiempo estimado, la distancia y el costo.
+Funciones Adicionales
+
+ObtenerCoordenadas: Extrae las coordenadas geográficas de una dirección.
+
+CalcularRuta: Determina el tiempo y la distancia entre dos puntos.
+
+MostrarMapa: Visualiza un mapa con la ruta calculada utilizando Folium.
+
 
 Autores de la aplicación:
 - Andres 
