@@ -51,4 +51,10 @@ Los datos almacenados en **Amazon Redshift** pueden ser visualizados mediante **
 
 Este flujo de trabajo permite el manejo de grandes volúmenes de datos con transformación, almacenamiento y análisis eficientes mediante los servicios de AWS.
 
+Autores de la aplicación:
+- Andres 
+- Danielo Carranza
+- Mariam Velasquez
+- Gonzalo Huarac
+
                                 
