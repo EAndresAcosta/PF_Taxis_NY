@@ -90,12 +90,3 @@ ObtenerCoordenadas: Extrae las coordenadas geográficas de una dirección.
 CalcularRuta: Determina el tiempo y la distancia entre dos puntos.
 
 MostrarMapa: Visualiza un mapa con la ruta calculada utilizando Folium.
-
-Enlace de la aplicación:
-
-[EASYTRIP](https://pftaxisny-p2yxafytih7czw8pe5xygj.streamlit.app/)
-
-Enlace del Dashboard:
-
-[Dashboard](https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/c2d87f9c-9348-4c42-b40e-c1fcea04fc71/sheets/c2d87f9c-9348-4c42-b40e-c1fcea04fc71_1800b16a-6f64-4519-bf7b-c4de47fef04c)
-

@@ -1,12 +1,11 @@
 
 ## ****NYC Taxis & Carbon Emission****
 <p align= "center">
-<img src= "https://i.postimg.cc/j5pWYDXX/Blue-Purple-Futuristic-Modern-3-D-Tech-Company-Business-Presentation-1.jpg", width= "80%">
+<img src= "https://i.postimg.cc/j5pWYDXX/Blue-Purple-Futuristic-Modern-3-D-Tech-Company-Business-Presentation-1.jpg", width= "70%">
 </p>
-***primer sprint***
-Queremos ayudar a empresas de transporte de pasajeros a tomar decisiones fundamentadas sobre la implementación de vehículos eléctricos en su flota. Para ello, se analizan los datos de movimientos de taxis en Nueva York y su relación con la calidad del aire y la contaminación sonora, entre otros factores ambientales. A continuación, se detalla un plan de trabajo para desarrollar este proyecto:
 
-**Objetivo General:** Evaluar la viabilidad de incorporar vehículos eléctricos en la flota de transporte de pasajeros de la empresa, con el fin de reducir las emisiones contaminantes y la contaminación sonora, basándose en el análisis de datos de taxis de Nueva York, así como en información relacionada con la calidad del aire y los niveles de ruido urbano.
+# Objetivo General:
+Evaluar la viabilidad de incorporar vehículos eléctricos en la flota de transporte de pasajeros de la empresa, con el fin de reducir las emisiones contaminantes y la contaminación sonora, basándose en el análisis de datos de taxis de Nueva York, así como en información relacionada con la calidad del aire y los niveles de ruido urbano.
 
 ### 1. Definición del Problema y Objetivos
  Analizar la relación entre el transporte de taxis y viajes compartidos en Nueva York con la calidad del aire y la contaminación sonora para evaluar la viabilidad de implementar vehículos eléctricos.
@@ -93,11 +92,37 @@ Despliegue del Modelo:
    
 Este plan abarca todas las etapas críticas para el desarrollo del proyecto, desde la recolección de datos hasta la implementación de soluciones de machine learning, con el objetivo de proporcionar a la empresa una base sólida para tomar decisiones estratégicas en su nueva unidad de negocio.
 
-Documentos entregables:
+## primer sprint
 
-[Primer sprint](https://docs.google.com/document/d/1vlcqUtl4y7xb8gZK4r807emdi7TWnc1BRmmV-37HglY/edit?usp=sharing)
+Queremos ayudar a empresas de transporte de pasajeros a tomar decisiones fundamentadas sobre la implementación de vehículos eléctricos en su flota. Para ello, se analizan los datos de movimientos de taxis en Nueva York y su relación con la calidad del aire y la contaminación sonora, entre otros factores ambientales. A continuación, se detalla un plan de trabajo para desarrollar este proyecto
 
-[Segundo sprint](https://docs.google.com/document/d/1SQNTXx04RgMKX8fW9N4xK2FnzKkgevKT7W14ZXpTo5I/edit#heading=h.xkxyypsnnaxy)
+## Segundo sprint
+
+En esta segunda etapa, se enfoco en el procesamiento y análisis de los datos recopilados usando el servicio de la nube AWS desarrollando un proceso automatizado de ETL (Extracción, Transformación y Carga) cumpliendo con el ciclo de vida de los datos desde la captura inicial hasta la generación de informes y visualizaciones para el uso en la aplicacion de machine learning y el dashboard.
+
+## Tercer sprint
+
+En esta ultima etapa se desarrollo un modelo de machine learning para implementarlo en la aplicacion de streamlit para la predicción de precios en los viajes de taxis en la ciudad de Nueva York, Se hizo enfasis en el diseño del dashboard contemplando los colores y los graficos a usar para tener un una interfaz amigable para el usuario donde se pueda explorar los datos evaluar los kpis  que facilite el análisis y llegar a tomar decisiones estrategicas.
+
+## Tecnologías usadas en el proyecto
+
+### Comunicación y trabajo en equipo
+
+![My Skills](https://skillicons.dev/icons?i=discord&theme=dark&perline=15)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=slack,jira,googlemeet&titles=true)
+
+### Desarrollo del proyecto
+
+![My Skills](https://skillicons.dev/icons?i=python&theme=dark&perline=15)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,scikitlearn,numpy,git,streamlit,aws&titles=true)
+
+### Link de la aplicación:
+
+[![EasyTrip](https://go-skill-icons.vercel.app/api/icons?i=android&titles=true)](https://pftaxisny-p2yxafytih7czw8pe5xygj.streamlit.app/)
+
+### Link del Dashboard:
+
+[![EasyTrip](https://go-skill-icons.vercel.app/api/icons?i=aws&titles=true)](https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/c2d87f9c-9348-4c42-b40e-c1fcea04fc71/sheets/c2d87f9c-9348-4c42-b40e-c1fcea04fc71_1800b16a-6f64-4519-bf7b-c4de47fef04c)
 
 
 ## Autores
